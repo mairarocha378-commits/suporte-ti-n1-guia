@@ -19,7 +19,7 @@ Este projeto simula atividades reais de um analista de suporte técnico N1, com 
 ## 📷 Exemplo prático:
 ## 📷 Exemplo prático:
 
-![Diagnóstico de rede](./arquivo_00000000b86c720ebd9f5f031eeb1bfc.png)
+![Diagnóstico de rede](file_00000000b86c720ebd9f5f031eeb1bfc.png)
 
 - 
 - ## 🧪 Caso prático:
