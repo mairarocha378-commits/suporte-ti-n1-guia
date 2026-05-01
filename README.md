@@ -54,3 +54,6 @@ Demonstrar conhecimentos práticos em suporte técnico e troubleshooting.
 
 ## 👩‍💻 Sobre mim:
 Estudante de Gestão de TI em busca da primeira oportunidade na área.
+## 📷 Exemplo prático:
+
+![Diagnóstico de rede](ipconfig.png)
