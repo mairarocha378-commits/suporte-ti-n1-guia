@@ -57,3 +57,7 @@ Estudante de Gestão de TI em busca da primeira oportunidade na área.
 ## 📷 Exemplo prático:
 
 ![Diagnóstico de rede](file_00000000b86c720ebd9f5f031eeb1bfc.png)
+## 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/maira-rocha-1a5ab8191
+- Email: mairarochasantos@yahoo.com
