@@ -2,6 +2,12 @@
 
 Este projeto simula atividades reais de um analista de suporte técnico N1, com foco em resolução de problemas comuns do dia a dia.
 
+## 🧠 Habilidades demonstradas:
+- Suporte técnico N1
+- Troubleshooting
+- Diagnóstico de rede
+- Uso de comandos (ipconfig)
+
 ---
 
 ## 📌 Problemas abordados:
