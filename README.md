@@ -15,6 +15,15 @@ Este projeto simula atividades reais de um analista de suporte técnico N1, com 
 **Solução:**
 - Reiniciar roteador
 - Renovar IP (ipconfig /release e /renew)
+- 
+- ## 📷 Exemplo prático:
+- ![Diagnóstico de rede](file_00000000b86c720ebd9f5f031eeb1bfc.pn)
+- 
+- ## 🧪 Caso prático:
+- **Problema:** Usuário sem internet  
+**Análise:** Verificação de IP com ipconfig  
+**Solução:** Renovação de IP e reinício do roteador  
+**Resultado:** Problema resolvido com sucesso ✅
 
 ---
 
@@ -54,9 +63,8 @@ Demonstrar conhecimentos práticos em suporte técnico e troubleshooting.
 
 ## 👩‍💻 Sobre mim:
 Estudante de Gestão de TI em busca da primeira oportunidade na área.
-## 📷 Exemplo prático:
 
-![Diagnóstico de rede](file_00000000b86c720ebd9f5f031eeb1bfc.png)
+
 ## 📬 Contato
 
 - LinkedIn: https://www.linkedin.com/in/maira-rocha-1a5ab8191
