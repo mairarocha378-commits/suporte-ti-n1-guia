@@ -56,4 +56,4 @@ Demonstrar conhecimentos práticos em suporte técnico e troubleshooting.
 Estudante de Gestão de TI em busca da primeira oportunidade na área.
 ## 📷 Exemplo prático:
 
-![Diagnóstico de rede](ipconfig.png)
+![Diagnóstico de rede](file_00000000b86c720ebd9f5f031eeb1bfc.png)
